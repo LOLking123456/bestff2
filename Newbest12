@@ -33,7 +33,7 @@ ui:SetColors('streamline')
 
 
 
-local w = ui:NewWindow('Football Fusion 2 Speed',350,300)
+local w = ui:NewWindow('Football Fusion 2 Speed',300,250)
 
 local m = w:NewMenu('Speed')
 local t = m:NewToggle('toggle speed')
